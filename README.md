@@ -21,6 +21,11 @@
 - [roam-parser](https://github.com/LuisThiamNye/roam-parser) — Implementing a Roam Research markdown parser while learning Clojure deeper.
 - [dot-spacemacs](https://github.com/LuisThiamNye/dot-spacemacs) — My configuration for Spacemacs.
 - [chic](https://github.com/LuisThiamNye/chic) — experiments described in: [Adventures in Dynamic Software, Visualisations, Creating a JVM Language, UI, and More](https://luisthiamnye.substack.com/p/adventures-in-dynamic-software-visualisations)
+  - Interactive Clojure namespace dependency graph visualisation
+  - Experimental JVM language like Java, but a Lisp dialect with dynamic features like Clojure.
+  - Experimental UI Toolkit
+  - Visual monitor brightness control
+  - and more
 
 #### Forks
 - [WinAppleKey](https://github.com/LuisThiamNye/WinAppleKey) — Magic Keyboard driver for Windows with Caps Lock key mapped to Ctrl, and Ctrl & Cmd swapped.
