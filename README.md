@@ -1,7 +1,7 @@
 ### Good Morning
 
 #### Utilities
-- [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar) — Properly hides the Windows taskbar unless the Start Menu is open.
+- [Buttery Taskbar 2](https://github.com/CrypticButter/ButteryTaskbar2) — Properly hides the Windows taskbar until you press the Windows key or scroll at the screen edge.
 - [Character picker](https://github.com/CrypticButter/character-picker) — Quick and convenient Unicode character picker for Windows.
 
 #### Libraries
